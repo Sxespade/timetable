@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Timetable</string>
+    <string name="home">Home</string>
+    <string name="classes">Classes</string>
+    <string name="hi_user">Hi!</string>
+    <string name="are_you_ready_for_exams">Are you ready for exams?</string>
+    <string name="days_hours_minutes">days : hours : minutes</string>
+    <string name="hours_minutes_seconds">hours : minutes : seconds</string>
+    <string name="homework">Homework</string>
+    <string name="class_image">Class image</string>
+    <string name="skype_link">Skype link</string>
+</resources>
